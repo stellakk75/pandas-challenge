@@ -1,6 +1,6 @@
 # Pandas-challenge
 
-Note to grader: Please use the link below to view the jupyter notebook if it is not displaying correctly
+Please use the link below to view the jupyter notebook
 https://nbviewer.jupyter.org/github/stellakk75/pandas-challenge/blob/master/PyCitySchools/PyCitySchoolsAnalysis.ipynb
 
 
